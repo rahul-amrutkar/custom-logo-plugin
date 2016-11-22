@@ -24,12 +24,6 @@ Change the default wordpress login logo, url and title
 
 This section describes how to install the plugin and get it working.
 
-In WordPress:
-
-    Go to Plugins > Add New > search for :: Change wordpress login logo url and title ::
-    Press Install Now for the Change wordpress login logo url and title plugin
-    Press Activate Plugin
-
 To install manually instead:
 
     Upload the change-wordpress-login-logo-url  directory to the /wp-content/plugins/ directory
